@@ -5,7 +5,8 @@ This bot allows users to register for an event and receive a ticket.
 ## Setup
 
 1. Create a virtual environment and install dependencies.
-2. Run `python "D:\bot\TGBot\TGBot\src\main.py"` to start the bot.
+2. Run  like `python "D:\bot\TGBot\TGBot\src\main.py"` to start the bot.
+3.Go to the  Telegram app  and open the bot.
 
 
 ## Usage
